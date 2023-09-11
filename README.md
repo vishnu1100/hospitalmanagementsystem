@@ -94,8 +94,6 @@ http://127.0.0.1:8000/
 ![Screenshot 1](/screenshots/7.png)
 
 
-![Screenshot 1](/screenshots/8.png)
-
 
 ![Screenshot 1](/screenshots/9.png)
 
