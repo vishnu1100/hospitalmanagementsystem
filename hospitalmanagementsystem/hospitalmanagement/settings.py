@@ -80,7 +80,7 @@ WSGI_APPLICATION = 'hospitalmanagement.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'flowershop',
+        'NAME': 'hospitaldb',
         'USER': 'root',
         'PASSWORD':'',
         'HOST':'localhost',
